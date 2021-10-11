@@ -6,7 +6,7 @@
 ## deuxiemement on installe filezilla : sudo apt install filezilla -y
 
 ##sur machine phisique:
-#se deplacer dans le dossier quon a creer avec mkdir -p
+##se deplacer dans le dossier quon a creer avec mkdir -p
 ##cd 420H64RO_ftp/ 
 ##sudo docker build . -t ubuntu:vsftpd
 ##sudo docker images
