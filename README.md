@@ -26,4 +26,4 @@ l'identifiant(username) par default est : "ftpuser" et le mot de passe c'est "ft
 Ainsi, apres avoir fait quickconnect, vous serez redigez dans le dossier /home/ftpuser/ftp/  
 vous devez deposer vos fichiers dans le repertoire /home/ftpuser/ftp/files  
 
-![rosemont](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.crosemont.qc.ca%2Fle-college%2Flogo-et-normes-graphiques%2F&psig=AOvVaw2AWpqB4DDC8SCvetq6XlDL&ust=1634228841013000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCLiwuv_mx_MCFQAAAAAdAAAAABAI)
+![rosemont](![image](https://user-images.githubusercontent.com/81458826/137175416-c82ff760-55da-4559-89ac-b8b119c71f72.png))
