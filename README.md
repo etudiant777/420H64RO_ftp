@@ -4,8 +4,7 @@
 #### *Fait par Samuel et Chris*
 #### *420H64RO serveur local 3*
 
-![rosemont](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Logo_college_rosemont_nouveau.png/179px-Logo_college_rosemont_nouveau.png)
-## Sur la Machine Physique:
+![rosemont](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Logo_college_rosemont_nouveau.png/179px-Logo_college_rosemont_nouveau.png)## Sur la Machine Physique:
 Premierement on installe vsftpd : __sudo apt install vsftpd -y__
 
 deuxiemement on installe filezilla : __sudo apt install filezilla -y__  
