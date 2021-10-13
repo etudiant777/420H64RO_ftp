@@ -4,9 +4,9 @@
 
 #### Premierement on installe vsftpd : sudo apt install vsftpd -y
 #### deuxiemement on installe filezilla : sudo apt install filezilla -y
-test de paragraphe
-je fais un test de paragrahe
-test test
+test de paragraphe.
+je fais un test de paragrahe.
+test test.
 #### sur machine phisique:
 #### se deplacer dans le dossier quon a creer avec mkdir -p
 #### cd 420H64RO_ftp/ 
