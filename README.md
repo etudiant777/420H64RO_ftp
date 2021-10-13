@@ -1,6 +1,6 @@
-<p align="center">
+
 //<h1> comment utiliser le serveur vsftpd avec docker <h1>
-</p>  
+
 ### *Fait par Samuel et Chris*
 ### *420H64RO serveur local 3*
 
@@ -32,5 +32,6 @@ Dans host ; il faut rajouter ip de l'interface eth0. Par Exemple : 172.17.0.2,
 l'identifiant(username) par default est : "ftpuser" et le mot de passe c'est "ftpuser"  
 Ainsi, apres avoir fait quickconnect, vous serez redigez dans le dossier /home/ftpuser/ftp/  
 vous devez deposer vos fichiers dans le repertoire /home/ftpuser/ftp/files  
-
+<p align="center">
 ![rosemont](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Logo_college_rosemont_nouveau.png/179px-Logo_college_rosemont_nouveau.png)
+</p>  
