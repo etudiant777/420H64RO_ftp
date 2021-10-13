@@ -3,6 +3,7 @@
 
 #### *Fait par Samuel et Chris*
 #### *420H64RO serveur local 3*
+#### *13 octobre 2021*
 ---
 ![rosemont](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Logo_college_rosemont_nouveau.png/179px-Logo_college_rosemont_nouveau.png)
  ---
@@ -24,9 +25,9 @@ on se deplace dans le dossier quon a creer avec __mkdir -p 420H64RO_ft__
 ---
 ## Dans le conteneur:
  
-####**systemctl start vsftpd**  
-####**systemctl status vsftpd**  
-####**ifconfig**  
+**systemctl start vsftpd**  
+**systemctl status vsftpd**  
+**ifconfig**  
 
 ## Finalement, sur la machine physique il faut:
 Aller dans ftp et connecter vous avec adresse ip de l'interface eth0 en bridge avec filezilla en verifiant les informations avec ifconfig  
