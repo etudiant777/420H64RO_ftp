@@ -6,7 +6,7 @@
 
 
 ## Sur Machine Physique:
-Premierement on installe vsftpd : <span style="color:red">__sudo apt install vsftpd -y__</span>
+Premierement on installe vsftpd : <span style="color:red"> sudo apt install vsftpd -y </span>
 
 deuxiemement on installe filezilla : __sudo apt install filezilla -y__  
 
