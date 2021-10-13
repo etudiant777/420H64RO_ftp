@@ -1,18 +1,24 @@
 <h1> comment utiliser le serveur vsftpd avec docker <h1>
   
-## Fait par Samuel et Chris
-## 420H64RO serveur local 3
+### *Fait par Samuel et Chris*
+### *420H64RO serveur local 3*
 
 
 ## Sur Machine Phisique:
 Premierement on installe vsftpd : __sudo apt install vsftpd -y__
+
 deuxiemement on installe filezilla : __sudo apt install filezilla -y__  
+
 on se deplace dans le dossier quon a creer avec __mkdir -p 420H64RO_ft__
 **cd 420H64RO_ftp/**  on se deplace dans le repertoire creer
+
 **sudo docker build . -t ubuntu:vsftpd**  on creer l'image avec le code du fichier Docker et on fait un tag
+
 **sudo docker images** pour afficher les images disponible dans le docker  
+
 **sudo docker run -d -it --name tp1_chris_et_samuel id_de_l’image** on met en cours l'image en mettant un nom
-**sudo docker exec -it tp1_chris_et_samuel bash**  finalement on execute avec le nom creer auparavant
+
+  **sudo docker exec -it tp1_chris_et_samuel bash**  finalement on execute avec le nom creer auparavant
 
 ## Dans le conteneur:
 **systemctl start vsftpd**  
