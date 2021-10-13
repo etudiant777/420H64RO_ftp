@@ -1,6 +1,6 @@
 ***
 <div align="center">
-<h1> Comment utiliser le serveur vsftpd avec docker </h1>
+<h1> Comment utiliser le serveur vsftpd avec Docker </h1>
 
 #### *Fait par Samuel et Chris*
 #### *420H64RO serveur local 3*
@@ -9,7 +9,7 @@
 ![rosemont](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Logo_college_rosemont_nouveau.png/179px-Logo_college_rosemont_nouveau.png)
  ***
  
- ## Sur la Machine Physique:
+ ## Sur la Machine Physique :
 *Premierement on installe vsftpd :*  ->    __sudo apt install vsftpd -y__
 
 *Deuxiemement on installe filezilla :* __sudo apt install filezilla -y__  
@@ -29,7 +29,7 @@
 *pour executer l'image lancer auparavant et se deplacer dans la machine :*  -> **sudo docker exec -it tp1_chris_et_samuel bash**  
 
 ---
-## Dans le conteneur:
+## Dans le conteneur :
 *On active le serveur ftp avec cette commande*
 
 **systemctl start vsftpd**  
@@ -41,7 +41,7 @@
 **ifconfig**  
 
 ---
-## Finalement, sur la machine physique il faut:
+## Finalement, sur la machine physique il faut :
 Aller dans ftp et connecter vous avec adresse ip de l'interface eth0 en bridge avec* **filezilla** *en verifiant les informations avec ifconfig  
 *Dans l'application filezilla*
 *Dans host ; il faut rajouter ip de l'interface eth0 obtenu par la commande ifconfig.* Par Exemple : 172.17.0.2,  
