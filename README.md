@@ -4,8 +4,8 @@
 #### *Fait par Samuel et Chris*
 #### *420H64RO serveur local 3*
 
-
-## Sur Machine Physique:
+![rosemont](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Logo_college_rosemont_nouveau.png/179px-Logo_college_rosemont_nouveau.png)
+## Sur la Machine Physique:
 Premierement on installe vsftpd : __sudo apt install vsftpd -y__
 
 deuxiemement on installe filezilla : __sudo apt install filezilla -y__  
@@ -33,6 +33,6 @@ l'identifiant(username) par default est : "ftpuser" et le mot de passe c'est "ft
 Ainsi, apres avoir fait quickconnect, vous serez redigez dans le dossier /home/ftpuser/ftp/  
 vous devez deposer vos fichiers dans le repertoire /home/ftpuser/ftp/files  
 
-![rosemont](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Logo_college_rosemont_nouveau.png/179px-Logo_college_rosemont_nouveau.png)
+
   
 </div>
