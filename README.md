@@ -13,7 +13,7 @@
 
 *Deuxiemement on installe filezilla :* __sudo apt install filezilla -y__  
 
-*On se deplace dans le dossier quon a creer avec :*  ->   __mkdir -p 420H64RO_ft__
+*On creer un dossier qui sera notre repertoire de travail :*  ->   __mkdir -p 420H64RO_ft__
 
 *On se deplace dans le repertoire creer :*  ->  **cd 420H64RO_ftp/**  *
 
