@@ -52,7 +52,7 @@
  
  ---
 
-Rendez-vous sur ce site pour plus d'information : 
+Rendez-vous sur ce site pour plus d'information sur la configuration du fichier vsftpd.conf : 
 
 [site de ftp*1* avec configuration ssl](https://websiteforstudents.com/install-and-configure-vsftpd-on-ubuntu-20-04-18-04)
 
