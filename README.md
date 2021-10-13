@@ -13,7 +13,8 @@ Premierement on installe vsftpd : __sudo apt install vsftpd -y__
 deuxiemement on installe filezilla : __sudo apt install filezilla -y__  
 
 on se deplace dans le dossier quon a creer avec ->  __mkdir -p 420H64RO_ft__
-**cd 420H64RO_ftp/** -> on se deplace dans le repertoire creer
+
+ **cd 420H64RO_ftp/** -> on se deplace dans le repertoire creer
 
 **sudo docker build . -t ubuntu:vsftpd**  -> on creer l'image avec le code du fichier Docker et on fait un tag
 
