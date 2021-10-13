@@ -1,4 +1,5 @@
 <div align="center">
+ ---
 <h1> comment utiliser le serveur vsftpd avec docker </h1>
 
 #### *Fait par Samuel et Chris*
@@ -27,9 +28,10 @@
 **sudo docker exec -it tp1_chris_et_samuel bash** -> *pour executer l'image lancer auparavant et se deplacer dans la machine*
 
 ## Dans le conteneur:
- 
+On active le serveur ftp avec cette commande
 **systemctl start vsftpd**  
 **systemctl status vsftpd**  
+ On verifie l'adresse ip avec cette commande
 **ifconfig**  
 
 ## Finalement, sur la machine physique il faut:
