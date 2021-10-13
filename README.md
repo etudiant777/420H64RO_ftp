@@ -51,9 +51,10 @@
 *Et voilà le tour est joué!!!*
  
  ---
-</div>
-*Rendez-vous sur ce site pour plus d'information : 
 
-`* [vsftpdsite1](https://websiteforstudents.com/install-and-configure-vsftpd-on-ubuntu-20-04-18-04)
+Rendez-vous sur ce site pour plus d'information : 
+
+[site de ftp1](https://websiteforstudents.com/install-and-configure-vsftpd-on-ubuntu-20-04-18-04)
 
 `* [vsftpdsite2](https://linoxide.com/install-vsftpd-with-ssl-tls-on-ubuntu-20-04/)
+</div>
