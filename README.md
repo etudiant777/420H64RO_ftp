@@ -29,13 +29,13 @@
 
 ---
 ## Dans le conteneur:
-On active le serveur ftp avec cette commande
+*On active le serveur ftp avec cette commande*
 
- **systemctl start vsftpd**  
+**systemctl start vsftpd**  
  
 **systemctl status vsftpd** 
  
-On verifie l'adresse ip avec cette commande
+*On verifie l'adresse ip avec cette commande*
  
 **ifconfig**  
 
