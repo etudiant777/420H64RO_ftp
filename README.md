@@ -54,7 +54,7 @@
 
 Rendez-vous sur ce site pour plus d'information : 
 
-[site de ftp1](https://websiteforstudents.com/install-and-configure-vsftpd-on-ubuntu-20-04-18-04)
+[site de ftp*1* avec configuration ssl](https://websiteforstudents.com/install-and-configure-vsftpd-on-ubuntu-20-04-18-04)
 
-`* [vsftpdsite2](https://linoxide.com/install-vsftpd-with-ssl-tls-on-ubuntu-20-04/)
+[site de ftp*2* avec configuration ssl](https://linoxide.com/install-vsftpd-with-ssl-tls-on-ubuntu-20-04/)
 </div>
