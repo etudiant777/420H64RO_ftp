@@ -1,5 +1,4 @@
 <div align="center">
- ---
 <h1> comment utiliser le serveur vsftpd avec docker </h1>
 
 #### *Fait par Samuel et Chris*
@@ -11,21 +10,21 @@
  ## Sur la Machine Physique:
 *Premierement on installe vsftpd :* __sudo apt install vsftpd -y__
 
-*deuxiemement on installe filezilla :* __sudo apt install filezilla -y__  
+*Deuxiemement on installe filezilla :* __sudo apt install filezilla -y__  
 
-*on se deplace dans le dossier quon a creer avec* ->  __mkdir -p 420H64RO_ft__
+*On se deplace dans le dossier quon a creer avec* ->  __mkdir -p 420H64RO_ft__
 
- **cd 420H64RO_ftp/** -> *on se deplace dans le repertoire creer*
+*On se deplace dans le repertoire creer* -> **cd 420H64RO_ftp/**  *
 
-**sudo docker build . -t ubuntu:vsftpd**  -> *on creer l'image avec le code du fichier Docker et on fait un tag*
+*On creer l'image avec le code du fichier Docker et on fait un tag*  -> **sudo docker build . -t ubuntu:vsftpd** 
 
-**sudo docker images** -> *on affiche les images disponible dans le docker*  
+*Pour lister les images disponible dans le docker* ->  **sudo docker images** 
+ 
+*On met en cours l'image en mettant un nom*  **sudo docker run -d -it --name tp1_chris_et_samuel id_de_l’image** ->
 
-**sudo docker run -d -it --name tp1_chris_et_samuel id_de_l’image** -> *on met en cours l'image en mettant un nom*
-
-**sudo docker container ls -a** -> *pour lister les containers disponibles*
-
-**sudo docker exec -it tp1_chris_et_samuel bash** -> *pour executer l'image lancer auparavant et se deplacer dans la machine*
+*Pour lister les containers disponibles*  ->  **sudo docker container ls -a** 
+ 
+*pour executer l'image lancer auparavant et se deplacer dans la machine*  -> **sudo docker exec -it tp1_chris_et_samuel bash**  
 
 ## Dans le conteneur:
 On active le serveur ftp avec cette commande
