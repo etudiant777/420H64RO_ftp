@@ -52,4 +52,4 @@
  
  ---
 </div>
-Rendez-vous sur ce site pour plus d'information : [vsftd](https://websiteforstudents.com/install-and-configure-vsftpd-on-ubuntu-20-04-18-04/) !
+Rendez-vous sur ce site pour plus d'information : [ftp](https://websiteforstudents.com/install-and-configure-vsftpd-on-ubuntu-20-04-18-04/) 
