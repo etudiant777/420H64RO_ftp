@@ -12,7 +12,7 @@ sudo docker images
 sudo docker run -d -it --name tp1_chris_et_samuel id_de_l’image  
 sudo docker exec -it tp1_chris_et_samuel bash  
 
-## dans le conteneur:
+## Dans le conteneur:
 systemctl start vsftpd  
 systemctl status vsftpd  
 ifconfig  
