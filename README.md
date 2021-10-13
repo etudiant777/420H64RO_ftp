@@ -48,6 +48,6 @@
 *L'identifiant(username) par default est :* **"ftpuser"** *et le mot de passe c'est* **"ftpuser"**  
 *Ainsi, apres avoir fait quickconnect, vous serez redigez dans le dossier* **/home/ftpuser/ftp/**  
 *Vous devez deposer vos fichiers dans le repertoire* **/home/ftpuser/ftp/files**  
-
+*Et voilà le tour est joué!!!*
  ---
 </div>
