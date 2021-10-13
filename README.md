@@ -4,7 +4,7 @@
 ### *420H64RO serveur local 3*
 
 
-## Sur Machine Phisique:
+## Sur Machine Physique:
 Premierement on installe vsftpd : __sudo apt install vsftpd -y__
 
 deuxiemement on installe filezilla : __sudo apt install filezilla -y__  
