@@ -50,7 +50,7 @@
 *Vous devez deposer vos fichiers dans le repertoire* **/home/ftpuser/ftp/files**  
 *Et voilà le tour est joué!!!*
  
- ---
+ --- 
 
 Rendez-vous sur ce site pour plus d'information sur la configuration du fichier vsftpd.conf : 
 
