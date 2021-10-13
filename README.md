@@ -42,7 +42,7 @@
 
 ---
 ## Finalement, sur la machine physique il faut :
-*Aller dans ftp et connecter vous avec adresse ip de l'interface eth0 en bridge avec* **filezilla** *en verifiant les informations avec la commande **ifconfig** *  
+*Aller dans ftp et connecter vous avec adresse ip de l'interface eth0 en bridge avec* **filezilla** *en verifiant les informations avec **ifconfig** .*  
 *Dans l'application filezilla*
 *Dans host ; il faut rajouter ip de l'interface **eth0** ou **docker0** obtenu par la commande ifconfig.* Par Exemple : **172.17.0.2**  
 *L'identifiant(username) par default est :* **"ftpuser"** *et le mot de passe c'est* **"ftpuser"**  
