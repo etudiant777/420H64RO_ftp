@@ -22,7 +22,7 @@
 
 *Pour lister les images disponible dans le docker :*  ->  **sudo docker images** 
  
-*On met en cours l'image en mettant un nom :*  ->  **sudo docker run -d -it --name tp1_chris_et_samuel "id_de_l’image"** 
+*On met en cours l'image en mettant le nom et l'id de l'image :*  ->  **sudo docker run -d -it --name tp1_chris_et_samuel "id_de_l’image"** 
 
 *Pour lister les containers disponibles :*  ->  **sudo docker container ls -a** 
  
