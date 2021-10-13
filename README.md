@@ -23,6 +23,7 @@ on se deplace dans le dossier quon a creer avec __mkdir -p 420H64RO_ft__
   **sudo docker exec -it tp1_chris_et_samuel bash**  finalement on execute avec le nom creer auparavant
 ---
 ## Dans le conteneur:
+ ---
 **systemctl start vsftpd**  
 **systemctl status vsftpd**  
 **ifconfig**  
