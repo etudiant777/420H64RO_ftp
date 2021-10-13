@@ -1,3 +1,4 @@
+***
 <div align="center">
 <h1> Comment utiliser le serveur vsftpd avec docker </h1>
 
@@ -43,7 +44,7 @@
 ## Finalement, sur la machine physique il faut:
 Aller dans ftp et connecter vous avec adresse ip de l'interface eth0 en bridge avec* **filezilla** *en verifiant les informations avec ifconfig  
 *Dans l'application filezilla*
-*Dans host ; il faut rajouter ip de l'interface eth0.* Par Exemple : 172.17.0.2,  
+*Dans host ; il faut rajouter ip de l'interface eth0 obtenu par la commande ifconfig.* Par Exemple : 172.17.0.2,  
 *L'identifiant(username) par default est :* **"ftpuser"** *et le mot de passe c'est* **"ftpuser"**  
 *Ainsi, apres avoir fait quickconnect, vous serez redigez dans le dossier* **/home/ftpuser/ftp/**  
 *Vous devez deposer vos fichiers dans le repertoire* **/home/ftpuser/ftp/files**  
