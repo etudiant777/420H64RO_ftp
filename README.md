@@ -1,6 +1,6 @@
 <div align="center">
 <h1> comment utiliser le serveur vsftpd avec docker </h1>
-</div>
+
 ### *Fait par Samuel et Chris*
 ### *420H64RO serveur local 3*
 
@@ -35,3 +35,4 @@ vous devez deposer vos fichiers dans le repertoire /home/ftpuser/ftp/files
 
 ![rosemont](https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Logo_college_rosemont_nouveau.png/179px-Logo_college_rosemont_nouveau.png)
   
+</div>
