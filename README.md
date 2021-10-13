@@ -26,13 +26,18 @@
  
 *pour executer l'image lancer auparavant et se deplacer dans la machine :*  -> **sudo docker exec -it tp1_chris_et_samuel bash**  
 
+---
 ## Dans le conteneur:
 On active le serveur ftp avec cette commande
 **systemctl start vsftpd**  
-**systemctl status vsftpd**  
- On verifie l'adresse ip avec cette commande
+ 
+**systemctl status vsftpd** 
+ 
+On verifie l'adresse ip avec cette commande
+ 
 **ifconfig**  
 
+---
 ## Finalement, sur la machine physique il faut:
 Aller dans ftp et connecter vous avec adresse ip de l'interface eth0 en bridge avec* **filezilla** *en verifiant les informations avec ifconfig  
 *Dans l'application filezilla*
